@@ -1,4 +1,5 @@
 # Project: Outsmarting the barriers for accessing the safety-net
+## Contributers: Thomas Hsiun,Sheharyar Khan, Tram Nguyen, Yin Yin Teo, Wilson Cruz Lopez
 
 ### California offers many social benefits to assist state residents in need, but agencies are not equipped for digital applications, and the state government has not historically encouraged easing the application process.  This creates an environment where different state programs have their own individual application, rather than a comprehensive universal application for all eligible benefits.  Applications are additionally complicated if applicants do not possess a Social Security number, or if the applicant is not a US citizen, but his or her children are.  This poses significant barriers to receiving benefits that many people in fact qualify for and is a formidable challenge that different groups have tried to solve.
 
